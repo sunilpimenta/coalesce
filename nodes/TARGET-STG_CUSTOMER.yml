@@ -60,7 +60,7 @@ steps:
               - columnReferences:
                   - columnCounter: 3
                     stepCounter: "1"
-                transform: ""
+                transform: UPPER(C_ADDRESS)
           - columnReference:
               columnCounter: 69
               stepCounter: "10"
