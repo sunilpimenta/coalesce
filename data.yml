@@ -12,19 +12,19 @@ locations:
   TARGET:
     mappingDefinitions:
       "2":
-        database: ""
-        schema: ""
+        database: COA_EDW
+        schema: QA_TGT
       "3":
-        database: ""
-        schema: ""
+        database: COA_EDW
+        schema: PRD_TGT
   WORK:
     mappingDefinitions:
       "2":
-        database: ""
-        schema: ""
+        database: COA_EDW
+        schema: QA_TGT
       "3":
-        database: ""
-        schema: ""
+        database: COA_EDW
+        schema: PRD_TGT
 macros: {}
 packages: {}
 projects: {}
